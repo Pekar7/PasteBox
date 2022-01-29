@@ -1,1 +1,3 @@
-
+app:
+  host: http://pastebox.karen.ru
+  public_list_size: 10
